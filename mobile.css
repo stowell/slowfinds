@@ -5,10 +5,20 @@ body {
 }
 h1 {
     font-size: 150%;
-    color: #7a7;
+    color: #2ebd59;
     margin-bottom: 2px;
+}
+h2 {
+    font-size: 150%;
+    color: #1ed760;
 }
 .copyright {
     font-size: 80%;
-    color: #9a9;
+    color: #aca;
+}
+a {
+    color: #2ebd59;
+}
+a:hover {
+    color: #1ed760;
 }
