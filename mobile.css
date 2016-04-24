@@ -1,18 +1,24 @@
 body {
-    font-size: 100%;
     width: 90%;
     margin: auto;
     font-family: sans-serif;
 }
 h1 {
     color: #2ebd59;
-    margin-top: 0.1em;
-    margin-bottom: 0.1em;
+    margin: 0;
+    padding: 0.1em;
+    padding-left: 0;
 }
 h2 {
-    color: #1ed760;
-    margin-top: 0.1em;
-    margin-bottom: 0.1em;
+    margin: 0;
+    color: #2ebd59;
+    padding: 0.1em;
+    padding-left: 0;
+    font-style: italic;
+}
+h3 {
+    color: #2ebd59;
+    padding-left: 0;
 }
 .copyright {
     font-size: 80%;
@@ -20,7 +26,5 @@ h2 {
 }
 a {
     color: #2ebd59;
-}
-a:hover {
-    color: #1ed760;
+    text-decoration: none;
 }
